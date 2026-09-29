@@ -7,7 +7,7 @@ lightning_logs/
 .ipynb_checkpoints/
 
 # Training data: download it instead of committing it
-ImageGeneratorDCGAN/flower_photos/
+flower_photos/
 
 # OS
 .DS_Store
