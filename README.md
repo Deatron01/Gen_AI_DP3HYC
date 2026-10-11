@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="./.github/assets/banner.svg" alt="Gen_AI_DP3HYC — Two generative models learn to paint flowers." width="100%" />
-</p>
+<h1 align="center">Gen_AI_DP3HYC</h1>
 
 <p align="center">
+  Two generative models learn to paint flowers.<br />
   <samp>PYTHON · PYTORCH LIGHTNING · TORCHVISION</samp>
 </p>
 
@@ -76,5 +75,7 @@ MIT. See [`LICENSE`](./LICENSE).
 <br />
 
 <p align="center">
+  <a href="https://github.com/Deatron01"><img src="https://raw.githubusercontent.com/Deatron01/Deatron01/main/assets/icon.png" width="56" alt="Dea" /></a><br />
+  <sub><i>Little chaos in a quiet mind.</i></sub><br />
   <sub><samp>MORE WORK AT <a href="https://github.com/Deatron01">GITHUB.COM/DEATRON01</a></samp></sub>
 </p>
